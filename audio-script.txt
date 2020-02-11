@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Terminal=true
+Name=Click-Script
+Icon=utilities-terminal
+Exec=gnome-terminal -e "bash -c 'alsamixer;$SHELL'"
+Categories=Application;
+Name[en_US]=alsamixer (copy).txt
