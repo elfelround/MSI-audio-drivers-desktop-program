@@ -14,3 +14,4 @@ double click and you will see a console with a few volume bars, arrow right to t
 
 your volume should now play
 
+![alsamixer msi audio fix program](https://github.com/elfelround/MSI-audio-drivers-desktop-program/blob/master/1.png)
